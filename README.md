@@ -1,3 +1,5 @@
+[Astro のチュートリアル](https://docs.astro.build/en/tutorial/0-introduction/)をやったやつ
+
 # Astro Starter Kit: Minimal
 
 ```sh
